@@ -1,5 +1,5 @@
 # Visimo
-tp.py is the main file. Run that file to start the game.
+The main file is tp.py. Run that file to start the game.
 The levels file creates the different levels of the game.
 The player file creates classes for the different types of players in the game.
 The tracking file creates functions finding the optimal moves for the defenders and blockers.
