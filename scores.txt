@@ -1,0 +1,14 @@
+0,None
+10,Lions
+0,Giants
+0,Ravens
+7,None
+17,None
+0,Chiefs
+30,Chiefs
+20,Steelers
+23,Lions
+0,Ravens
+44,Steelers
+20,Ravens
+0,Lions
